@@ -1,0 +1,8 @@
+github.com/Shopify/sarama
+гошная либа для работы с кафкой Sarama, в ней есть два примера
+consumergroup - консумер сообщений
+interceptors - продюсер, кидает сообщения каждые 5 сек
+
+https://git.sbercloud.tech/cp/go/core/cp-billing-proxy
+пример event sourcing в taskconsumer, taskproducer
+
